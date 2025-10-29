@@ -126,10 +126,12 @@
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="Lesson13.1_OOP.cpp" />
     <ClCompile Include="Product.cpp" />
+    <ClCompile Include="SportsEquipment.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />
     <ClInclude Include="Product.h" />
+    <ClInclude Include="SportsEquipment.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
